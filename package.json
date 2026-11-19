@@ -14,18 +14,18 @@
     "test:headed": "playwright test --headed"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^14.3.3",
-    "@astrojs/preact": "^6.0.5",
+    "@astrojs/cloudflare": "^14.4.7",
+    "@astrojs/preact": "^6.1.5",
     "@dotforge/core": "^0.9.1",
     "astro": "^7.3.5",
-    "lucide-preact": "^1.48.0",
-    "preact": "^10.29.8"
+    "lucide-preact": "^1.72.0",
+    "preact": "^11.2.0"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.10",
-    "@biomejs/biome": "2.5.14",
-    "@playwright/test": "^1.63.0",
-    "@types/node": "^26.6.2",
+    "@astrojs/check": "^0.9.12",
+    "@biomejs/biome": "2.6.7",
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6",
     "typescript": "^6.0.3",
     "wrangler": "^4.141.0"
   },
