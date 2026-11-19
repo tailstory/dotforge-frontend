@@ -1,3 +1,3 @@
-# dotforge-web
+# dotforge-frontend
 
 Dotforge - frontend
